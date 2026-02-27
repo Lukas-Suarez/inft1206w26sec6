@@ -1,0 +1,15 @@
+
+/*
+	Name: Lukas Suarez
+	File: style.css
+	Date: 2026-02-27
+	Style css for john do
+	*/
+
+html {
+    background-color: white;
+}
+
+body {
+    font: 1.2em / 1.5 system-ui;
+}
