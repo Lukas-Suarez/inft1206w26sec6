@@ -23,6 +23,12 @@ a {
     color: green;
 }
 
+a:hover,
+a:focus {
+    color: darkgreen;
+    text-decoration: none;
+}
+
 div {
     color: darkslategray;
 }
