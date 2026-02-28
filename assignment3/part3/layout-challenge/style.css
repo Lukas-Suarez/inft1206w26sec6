@@ -31,6 +31,9 @@ img {
 .grid {
     margin: 0 auto;
     max-width: 980px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
 }
 
 nav {
@@ -58,12 +61,13 @@ nav a {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 1fr 1fr;
 }
 
 .feature {
     width: 200px;
     float: left;
-    
-    margin: 10px 20px ;
-
+    margin: 10px 20px;
 }
