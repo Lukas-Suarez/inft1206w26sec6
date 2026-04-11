@@ -4,3 +4,22 @@
 	Date: 2026-04-10
 	Style css for assignment 4 part 3
 */
+
+
+html, body {
+    margin: 0;
+}
+
+
+h1 {
+    position: absolute;
+    margin: 0;
+    top: -4px;
+    right: 5px;
+    color: white;
+}
+
+body {
+    color: black;
+    background-color: black;
+}
