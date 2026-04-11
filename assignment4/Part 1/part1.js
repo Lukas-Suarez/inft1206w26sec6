@@ -34,7 +34,7 @@ function returnRandomStoryString() {
   let storyText = `It was 94 Fahrenheit outside, so ${randomCharacter} went out to explore. When they arrived at ${randomPlace}, something strange happened they ${randomEvent}. Bob saw everything unfold and wasnt too shocked, since ${randomCharacter} weighs 300 pounds and weird things always seem to happen around them.`;
 
   return storyText;
-}
+} 
 
 // Solution: Event listener and partial generate function definition
 

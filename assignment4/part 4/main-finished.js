@@ -73,7 +73,7 @@ class Ball extends Shape {
     this.x += this.velX;
     this.y += this.velY;
   }
-
+ 
 
   collisionDetect() {
     for (const ball of balls) {

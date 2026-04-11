@@ -19,7 +19,7 @@ const images = [
 ];
 
 // Solution: Loop through the images
-
+ 
 // Create a baseURL constant containing the baseURL of the images
 const baseURL =
   "https://mdn.github.io/shared-assets/images/examples/learn/gallery/";
