@@ -1,3 +1,6 @@
+//Name: Lukas Suarez
+//File: main.js
+//Date: 2026-04-10
 // set up canvas
 
 const canvas = document.querySelector("canvas");
