@@ -1,3 +1,6 @@
+//Name: Lukas Suarez
+//File: main.js
+//Date: 2026-04-17
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
