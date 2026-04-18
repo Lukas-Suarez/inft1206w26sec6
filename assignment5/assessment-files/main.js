@@ -33,6 +33,7 @@ form.onsubmit = function(e) {
   submitComment();
 };
 
+
 function submitComment() {
   const listItem = document.createElement('li');
   const namePara = document.createElement('p');
